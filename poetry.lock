@@ -1912,7 +1912,7 @@ grpcio = "*"
 
 [[package]]
 name = "spark-nlp"
-version = "4.3.1"
+version = "4.3.2"
 description = "John Snow Labs Spark NLP is a natural language processing library built on top of Apache Spark ML. It provides simple, performant & accurate NLP annotations for machine learning pipelines, that scale easily in a distributed environment."
 category = "main"
 optional = false
@@ -2270,7 +2270,7 @@ testing = ["pytest (>=6)", "pytest-checkdocs (>=2.4)", "flake8 (<5)", "pytest-co
 [metadata]
 lock-version = "1.1"
 python-versions = "^3.10"
-content-hash = "a8de1cc3d532334f0a1fb9b57fb47170ce99b49176cce77a69ff928ad227f010"
+content-hash = "af1907c5fab41a7b85260365089aaad6660404247df8483ce4842ffdd6f2fc8e"
 
 [metadata.files]
 alabaster = []
